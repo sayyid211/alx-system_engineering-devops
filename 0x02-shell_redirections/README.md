@@ -9,3 +9,4 @@ cat /etc/passwd
 cat /etc/passwd /etc/hosts
 #view last 10 lines
 tail /etc/passwd
+#view first 10 lines
