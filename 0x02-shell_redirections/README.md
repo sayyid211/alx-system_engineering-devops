@@ -5,3 +5,5 @@ echo "Hello, World"
 echo "(Ôo)'
 #view passwd file
 cat /etc/passwd
+#view 2 files
+cat /etc/passwd /etc/hosts
