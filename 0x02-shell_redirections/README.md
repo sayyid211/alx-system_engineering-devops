@@ -1,4 +1,7 @@
 #!/bin/bash
-#add shell redirection directory
-#add 0-hello world
-#add 1-confused_smiley
+#print hello world
+echo "Hello, World"
+#print confused_smiley
+echo "(Ôo)'
+#view passwd file
+cat /etc/passwd
