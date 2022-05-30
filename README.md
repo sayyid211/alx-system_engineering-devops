@@ -1,2 +1,2 @@
 #!/bin/bash
-Beginning bash scripting
+Starting with emacs basics
