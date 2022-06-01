@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo PATH=$PATH+'/action'
+sudo PATH=$PATH/action
