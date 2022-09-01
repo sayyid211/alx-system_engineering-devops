@@ -1,0 +1,2 @@
+#!/bin/bash
+chown -R -P vincent _hello|chgrp -R -P staff _hello
