@@ -1,0 +1,1 @@
+Shell permissions give access levels to various users of the system on files, directories and programs
