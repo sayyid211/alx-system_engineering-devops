@@ -1,0 +1,1 @@
+Redirection in shell involves casting a script's output to another location, e.g a file rather than the standard output
