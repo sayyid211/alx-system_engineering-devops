@@ -1,3 +1,3 @@
-#!/usr/bin/env ruby
+#!/usr/bin/env bash
 #Display listening sockets and process PID and name for the sockets
 netstat -1 --program
