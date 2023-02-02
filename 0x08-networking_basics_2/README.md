@@ -1,0 +1,9 @@
+0.0.0.0
+hosts file
+blocking ip addresses
+netcat
+ifconfig
+telnet
+nc
+cut
+x
