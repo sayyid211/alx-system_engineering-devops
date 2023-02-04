@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#shoe bash pid
+pgrep bash -l
